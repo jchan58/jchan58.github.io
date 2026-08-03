@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   JdobToEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'MedHopQA: A Disease-Centered Multi-Hop Reasoning Benchmark and Evaluation Framework for LLM-Based Biomedical Question Answering'
     year: '2026'
   JdobToEAAAAJ:9yKSN-GCB0IC:
-    citations: 37
+    citations: 39
     title: A foundation model for human-AI collaboration in medical literature mining
     year: '2025'
   JdobToEAAAAJ:KlAtU1dfN6UC:
@@ -27,7 +27,7 @@ papers:
     year: '2026'
   JdobToEAAAAJ:LkGwnXOMwfcC:
     citations: 2
-    title: Power Consumption Forecasting of Spacecraft Based on Adaptive Frequency-Domain Pruning-Enhanced Transformer
+    title: Power consumption forecasting of spacecraft based on adaptive frequency-domain pruning-enhanced transformer
     year: '2025'
   JdobToEAAAAJ:Se3iqnhoufwC:
     citations: 4
@@ -44,11 +44,15 @@ papers:
   JdobToEAAAAJ:WF5omc3nYNoC:
     citations: 0
     title: Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering
-    year: '2025'
+    year: '2026'
   JdobToEAAAAJ:Y0pCki6q_DkC:
     citations: 4
     title: The corpus of the MedHopQA track at BioCreative IX
     year: '2025'
+  JdobToEAAAAJ:YOwf2qJgpHMC:
+    citations: 3
+    title: 'Humans and Large Language Models in Clinical Decision Support: A Study with Medical Calculators'
+    year: '2026'
   JdobToEAAAAJ:Zph67rFs4hoC:
     citations: 24
     title: others. 2026. Overview of the 11th social media mining for health (# smm4h) and health real-world data (HeaRD) shared tasks at ACL 2026
@@ -58,7 +62,7 @@ papers:
     title: 'DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI'
     year: '2026'
   JdobToEAAAAJ:d1gkVwhDpl0C:
-    citations: 82
+    citations: 85
     title: 'Metabolic reprogramming in glioblastoma multiforme: a review of pathways and therapeutic targets'
     year: '2024'
   JdobToEAAAAJ:eQOLeE2rZwMC:
